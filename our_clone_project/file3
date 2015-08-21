@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+This is file 3
+=======
+Change to demonstrate branch commit.
+>>>>>>> foo_feature
+Fixed file3
